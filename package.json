@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-clone",
+  "version": "1.0.0",
+  "description": "Minecraft clone built with Three.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "npx serve .",
+    "dev": "npx http-server . -p 8080 --cors"
+  },
+  "engines": { "node": ">=14" }
+}
